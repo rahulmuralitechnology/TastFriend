@@ -57,5 +57,3 @@ Feature:
 - Offline Access
 - Tutorial and Onboarding
 - Feedback and Support
-
-Remember that this is just one way to sort the paragraph based on feature types, and you can arrange them in a different order if desired.
